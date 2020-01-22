@@ -1,0 +1,36 @@
+body {
+    background-color:#ffffff;
+}
+
+.header {
+    background-image: url(img/bb.jpg);
+    min-height: 400px;
+}
+.header h1{
+    color: lawngreen;
+    text-align: center;
+}
+
+.jumbotron {
+    min-width: 585px;
+    margin: 10px auto;
+    /* display: flex; */
+    margin: 50px 50px 50px 50px;
+  }
+  .card{
+      float: right;
+      margin-right: 250px;
+  }
+  
+.card1{
+    margin-left: 250px;
+}
+.etiam {
+    text-align: center;
+}
+
+.footer{
+    color: blue;
+    background-color: crimson;
+    text-align: center;
+}
